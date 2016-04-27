@@ -6,7 +6,7 @@
     <SharedGUID>8a5131b1-4b8c-4b20-817e-2b24224e374c</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>SharedProject1</Import_RootNamespace>
+    <Import_RootNamespace>LearnCSharp</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
   </ItemGroup>
